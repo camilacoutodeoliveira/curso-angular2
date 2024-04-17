@@ -24,4 +24,7 @@ ng serve
 GEra um componente
 ng g c meu-component
 
+ng g c meu-component/component-detalhe
+
 Babel transpila o codigo ts para js puro
+
