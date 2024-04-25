@@ -15,7 +15,7 @@ ng version
 
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
-criar projeto 
+criar projeto com app.module.ts
 ng new primeiro-projeto --standalone=false
 
 Roda a aplicação
